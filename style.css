@@ -1,0 +1,12 @@
+.topHeading{
+    background:red;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+.origamiImage{
+    width: 250px;
+    border: 10px double black;
+    border-radius: 12px;
+    margin: 20px;
+}
